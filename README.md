@@ -1,0 +1,6 @@
+## title
+A langchain pracitce project
+
+## description
+This project is a copy of the vedio on the YouTube "LangChain Crash Course For Beginners | LangChain Tutorial".
+I use this demo to practice basic operations in langchain, and try to get familiar with it.
